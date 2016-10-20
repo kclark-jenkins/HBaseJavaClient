@@ -1,0 +1,15 @@
+package org.krisbox.examples.utils;
+
+/**
+ * Created by kclark on 10/20/16.
+ */
+public enum HBaseFields {
+    JDBC_HBASE_DRIVER,
+    JDBC_HBASE_PRINCIPAL,
+    JDBC_HBASE_PROTOCOL,
+    JDBC_HBASE_NODES,
+    JDBC_HBASE_PORT,
+    JDBC_HBASE_PRINCIPAL_PROTOCOL,
+    JDBC_HBASE_KERBEROS_KEYTAB_LOCATION,
+    JDBC_HBASE_KERBEROS_KEYTAB_FILENAME
+}
