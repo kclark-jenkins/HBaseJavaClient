@@ -1,6 +1,6 @@
 # HBaseJavaClient
 
-* Download org.krisbox.examples.HBaseExample.jar
+* [Download org.krisbox.examples.HBaseExample.jar](https://github.com/kclark-jenkins/HBaseJavaClient/releases/tag/0.0.1a)
 * Create a file named "HBaseExample.properties" in the same directory as the jar
 
 ```
